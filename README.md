@@ -1,6 +1,6 @@
 # RESPONSIVE WEB DESIGN CHALLENGE 3 - BUILD A PRODUCT LANDING PAGE 
 
-## 
+## Written in HTML, CSS + FLEXBOX + BOOTSTRAP 4
 
 ## USER STORIES TO BE FULFILLED 
 
@@ -19,5 +19,7 @@
 * The navbar should always be at the top of the viewport.
 *  My product landing page should have at least one media query.
 * My product landing page should utilize CSS flexbox at least once
+
+## TESTS : 15/16
 
 
